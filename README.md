@@ -1,1 +1,1 @@
-# KotlinHackerRankSolutions
+# HackerRank Algorithms Kotlin Solutions

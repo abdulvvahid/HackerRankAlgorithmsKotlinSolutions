@@ -2,6 +2,7 @@
  * Complete the function solveMeFirst to compute the sum of two integers.
  * */
 
+import java.io.*
 import java.util.*
 
 fun solveMeFirst(a: Int, b: Int): Int = a+b
